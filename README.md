@@ -1,0 +1,1 @@
+Se creo un programa el cual dependdiendo del monto total se reparte el dinero en 'n' partes iguales.
